@@ -19,6 +19,7 @@ If the genome you want to submit encounters some special circumstances, for exam
 
 ## How to cite HSE
 Please cite HSE if you feel it has helped you in your work. Thank you!
+
 [Wang, S. et al. HortGenome Search Engine, a universal genomic search engine for horticultural crops. bioRxiv 2024.01.01.573844 (2024) doi:10.1101/2024.01.01.573844.](https://www.biorxiv.org/content/10.1101/2024.01.01.573844v1)
 
 
